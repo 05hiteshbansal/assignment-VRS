@@ -19,11 +19,14 @@ In the RBAC system Admin can give permissions to any user and based upon the per
 
 ## Screenshots
 
+![App Screenshot](/demoImages/register.png)
+![App Screenshot](/demoImages/login.png)
+![App Screenshot](/demoImages/permission.png)
 ![App Screenshot](/demoImages/Employees.png)
-![App Screenshot](/demoImages/Employees.png)
-![App Screenshot](/demoImages/Employees.png)
-![App Screenshot](/demoImages/Employees.png)
-![App Screenshot](/demoImages/Employees.png)
+![App Screenshot](/demoImages/profile.png)
+![App Screenshot](/demoImages/sales.png)
+![App Screenshot](/demoImages/targets.png)
+
 
 
 
